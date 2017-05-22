@@ -1,1 +1,1 @@
-Git isa version control system.
+Git is not always free.
